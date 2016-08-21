@@ -1,0 +1,23 @@
+{
+  "name": "ngx-loader",
+  "version": "1.0.0",
+  "description": "ngx-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsx-transform": "^2.3.0",
+    "loader-utils": "^0.2.15"
+  },
+  "author": "PatrickJS <github@gdi2290.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdi2290/ngx-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdi2290/ngx-loader/issues"
+  },
+  "homepage": "https://github.com/gdi2290/ngx-loader#readme"
+}
