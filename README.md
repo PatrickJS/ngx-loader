@@ -1,5 +1,5 @@
 # ngx-loader
-ngx-loader
+> Depending on demand I'll work on this more
 
 
 `@angularclass/ngx` needed (pending release)
